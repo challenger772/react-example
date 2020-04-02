@@ -1,0 +1,17 @@
+.Header{
+    border:1px solid black;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+}
+
+.Header .avatar{
+    display: flex;
+    flex-direction: column;
+}
+
+.Header .avatar img{
+    border-radius: 50%;
+    height: 50px;
+    width: 70px;
+}

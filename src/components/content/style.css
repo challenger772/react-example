@@ -1,0 +1,12 @@
+.Content{
+    border:1px solid black;
+    height: 70%;
+}
+
+.Content .avatar {
+    border-radius: 50%;
+}
+
+.title {
+    font-size: large;
+}
